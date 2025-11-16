@@ -1,10 +1,10 @@
-# Python
-__pycache__/
-*.py[cod]
-venv/
-env/
 .DS_Store
-node_modules/
+.vite-ssg-dist
+.vite-ssg-temp
+*.local
+dist
+dist-ssr
+node_modules
 .idea/
-.vscode/
 *.log
+cypress/downloads
